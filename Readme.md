@@ -17,6 +17,8 @@ Reinforcement Learning and Leveraging Vision through ** RGB-D** Sensor
 
 [![text1](model2_tanh_tanh.mp4)](model2_tanh_tanh.mp4)
 
+<video src="model2_tanh_tanh.mp4" width="320" height="400" controls preload></video>
+
 ```python
 
 ```
