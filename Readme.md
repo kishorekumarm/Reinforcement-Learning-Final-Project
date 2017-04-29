@@ -15,9 +15,9 @@ Reinforcement Learning and Leveraging Vision through ** RGB-D** Sensor
 
 ### Method - 1 - Deep Deterministic Policy Gradient (DDPG)
 
-[![text1](model2_tanh_tanh.mp4)](model2_tanh_tanh.mp4)
+[![text1](stand.gif)](model2_tanh_tanh.mp4)
 
-<video src="model2_tanh_tanh.mp4" width="320" height="400" controls preload></video>
+<video poster="stand.gif" src="model2_tanh_tanh.mp4" width="320" height="400" controls preload></video>
 
 ```python
 
